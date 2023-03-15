@@ -1,6 +1,6 @@
 package seminar_1;
 import java.util.Scanner;
-public class hm_4 {
+public class hw_4 {
    public static void main(String[] args) {
       /**(ДОПОЛНИТЕЛЬНАЯ) +Задано уравнение вида q + w = e, q, w, e >= 0.
 Некоторые цифры могут быть заменены знаком вопроса, например 2? + ?5 = 69 (пользователь).
